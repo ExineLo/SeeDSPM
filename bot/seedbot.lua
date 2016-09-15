@@ -227,9 +227,9 @@ function create_config( )
     about_text = [[Teleseed v2 - Open Source
 An advance Administration bot based on yagop/telegram-bot 
 
-اینجا کلا پاک شده!
-اگه با سودو کار داری
-@yellowhat
+Here!
+Removed !
+:)
 ]],
     help_text_realm = [[
 Realm Commands:
